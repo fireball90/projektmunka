@@ -1,2 +1,2 @@
 print("yoyoyo")
-print("oyoyoy SECUND COMMIT BRAH")
+print("oyoyoy SECUND BRAH")
